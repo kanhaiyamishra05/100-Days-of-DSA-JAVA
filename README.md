@@ -11,8 +11,7 @@ Given an array of integers nums and an integer target, return indices of the two
 ## Day 03: 1. Maximum SubArray
 📌 Problem Statement
 Given an integer array nums, find the subarray with the largest sum, and return its sum.
-
-           <h1>2<h1>. Search a 2D Aarray
+## Day 03: 2. Search 2D Array
   📌 Problem Statement
 You are given an m x n integer matrix matrix with the following two properties:
   1.Each row is sorted in non-decreasing order.
