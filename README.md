@@ -17,8 +17,9 @@ You are given an m x n integer matrix matrix with the following two properties:
   1.Each row is sorted in non-decreasing order.
   2.The first integer of each row is greater than the last integer of the previous row.
   
-## Day 04: 
+## Day 04: Transpose matrix
 📌 Problem Statement
+Given a 2D integer array matrix, return the transpose of matrix.
 
 ## Day 05: 
 📌 Problem Statement
